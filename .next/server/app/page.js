@@ -252,10 +252,10 @@ eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__w
 
 /***/ }),
 
-/***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=true!":
-/*!******************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=true! ***!
-  \******************************************************************************************************/
+/***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5CWork%5CMy%20Works%5CProjects-main%5Cauth-app%5Cstyles%5Cglobals.css&server=true!":
+/*!*****************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5CWork%5CMy%20Works%5CProjects-main%5Cauth-app%5Cstyles%5Cglobals.css&server=true! ***!
+  \*****************************************************************************************************************************************************************************************/
 /***/ (() => {
 
 
@@ -269,7 +269,7 @@ eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__w
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Home)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react?9fde\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_navigation__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/navigation */ \"(ssr)/./node_modules/next/navigation.js\");\n/* harmony import */ var next_navigation__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_navigation__WEBPACK_IMPORTED_MODULE_1__);\n// app/page.tsx\n/* __next_internal_client_entry_do_not_use__ default auto */ \n\nfunction Home() {\n    const router = (0,next_navigation__WEBPACK_IMPORTED_MODULE_1__.useRouter)();\n    (0,react__WEBPACK_IMPORTED_MODULE_0__.useEffect)(()=>{\n        router.replace(\"/login\");\n    }, [\n        router\n    ]);\n    return null;\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9hcHAvcGFnZS50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7QUFBQSxlQUFlOzZEQUVrQjtBQUNVO0FBRTVCLFNBQVNFO0lBQ3RCLE1BQU1DLFNBQVNGLDBEQUFTQTtJQUN4QkQsZ0RBQVNBLENBQUM7UUFDUkcsT0FBT0MsT0FBTyxDQUFDO0lBQ2pCLEdBQUc7UUFBQ0Q7S0FBTztJQUNYLE9BQU87QUFDVCIsInNvdXJjZXMiOlsid2VicGFjazovL2F1dGgtYXBwLy4vYXBwL3BhZ2UudHN4Pzc2MDMiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gYXBwL3BhZ2UudHN4XHJcbid1c2UgY2xpZW50J1xyXG5pbXBvcnQgeyB1c2VFZmZlY3QgfSBmcm9tICdyZWFjdCdcclxuaW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSAnbmV4dC9uYXZpZ2F0aW9uJ1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSG9tZSgpIHtcclxuICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKVxyXG4gIHVzZUVmZmVjdCgoKSA9PiB7XHJcbiAgICByb3V0ZXIucmVwbGFjZSgnL2xvZ2luJylcclxuICB9LCBbcm91dGVyXSlcclxuICByZXR1cm4gbnVsbFxyXG59XHJcbiJdLCJuYW1lcyI6WyJ1c2VFZmZlY3QiLCJ1c2VSb3V0ZXIiLCJIb21lIiwicm91dGVyIiwicmVwbGFjZSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(ssr)/./app/page.tsx\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Home)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react?9fde\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_navigation__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/navigation */ \"(ssr)/./node_modules/next/navigation.js\");\n/* harmony import */ var next_navigation__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_navigation__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../styles/globals.css */ \"(ssr)/./styles/globals.css\");\n/* __next_internal_client_entry_do_not_use__ default auto */ \n\n\nfunction Home() {\n    const router = (0,next_navigation__WEBPACK_IMPORTED_MODULE_1__.useRouter)();\n    (0,react__WEBPACK_IMPORTED_MODULE_0__.useEffect)(()=>{\n        router.replace(\"/login\");\n    }, [\n        router\n    ]);\n    return null;\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9hcHAvcGFnZS50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OzZEQUVpQztBQUNVO0FBQ2I7QUFFZixTQUFTRTtJQUN0QixNQUFNQyxTQUFTRiwwREFBU0E7SUFDeEJELGdEQUFTQSxDQUFDO1FBQ1JHLE9BQU9DLE9BQU8sQ0FBQztJQUNqQixHQUFHO1FBQUNEO0tBQU87SUFDWCxPQUFPO0FBQ1QiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9hdXRoLWFwcC8uL2FwcC9wYWdlLnRzeD83NjAzIl0sInNvdXJjZXNDb250ZW50IjpbIid1c2UgY2xpZW50J1xyXG5cclxuaW1wb3J0IHsgdXNlRWZmZWN0IH0gZnJvbSAncmVhY3QnXHJcbmltcG9ydCB7IHVzZVJvdXRlciB9IGZyb20gJ25leHQvbmF2aWdhdGlvbidcclxuaW1wb3J0ICcuLi9zdHlsZXMvZ2xvYmFscy5jc3MnXHJcblxyXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBIb21lKCkge1xyXG4gIGNvbnN0IHJvdXRlciA9IHVzZVJvdXRlcigpXHJcbiAgdXNlRWZmZWN0KCgpID0+IHtcclxuICAgIHJvdXRlci5yZXBsYWNlKCcvbG9naW4nKVxyXG4gIH0sIFtyb3V0ZXJdKVxyXG4gIHJldHVybiBudWxsXHJcbn1cclxuIl0sIm5hbWVzIjpbInVzZUVmZmVjdCIsInVzZVJvdXRlciIsIkhvbWUiLCJyb3V0ZXIiLCJyZXBsYWNlIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(ssr)/./app/page.tsx\n");
 
 /***/ }),
 
@@ -922,6 +922,28 @@ eval("// This has to be a shared module which is shared between client component
 
 /***/ }),
 
+/***/ "(rsc)/./styles/globals.css":
+/*!****************************!*\
+  !*** ./styles/globals.css ***!
+  \****************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"2d05991c511e\");\nif (false) {}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9zdHlsZXMvZ2xvYmFscy5jc3MiLCJtYXBwaW5ncyI6Ijs7OztBQUFBLGlFQUFlLGNBQWM7QUFDN0IsSUFBSSxLQUFVLEVBQUUsRUFBdUIiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9hdXRoLWFwcC8uL3N0eWxlcy9nbG9iYWxzLmNzcz9kNzI5Il0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IFwiMmQwNTk5MWM1MTFlXCJcbmlmIChtb2R1bGUuaG90KSB7IG1vZHVsZS5ob3QuYWNjZXB0KCkgfVxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./styles/globals.css\n");
+
+/***/ }),
+
+/***/ "(ssr)/./styles/globals.css":
+/*!****************************!*\
+  !*** ./styles/globals.css ***!
+  \****************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"2d05991c511e\");\nif (false) {}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9zdHlsZXMvZ2xvYmFscy5jc3MiLCJtYXBwaW5ncyI6Ijs7OztBQUFBLGlFQUFlLGNBQWM7QUFDN0IsSUFBSSxLQUFVLEVBQUUsRUFBdUIiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9hdXRoLWFwcC8uL3N0eWxlcy9nbG9iYWxzLmNzcz9jNzc0Il0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IFwiMmQwNTk5MWM1MTFlXCJcbmlmIChtb2R1bGUuaG90KSB7IG1vZHVsZS5ob3QuYWNjZXB0KCkgfVxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(ssr)/./styles/globals.css\n");
+
+/***/ }),
+
 /***/ "(rsc)/./app/layout.tsx":
 /*!************************!*\
   !*** ./app/layout.tsx ***!
@@ -929,7 +951,7 @@ eval("// This has to be a shared module which is shared between client component
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ RootLayout),\n/* harmony export */   metadata: () => (/* binding */ metadata)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n\nconst metadata = {\n    title: \"Authentication Flow.js\",\n    description: \"Generated by Next.js\"\n};\nfunction RootLayout({ children }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"html\", {\n        lang: \"en\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"body\", {\n            children: children\n        }, void 0, false, {\n            fileName: \"D:\\\\Work\\\\My Works\\\\Projects-main\\\\auth-app\\\\app\\\\layout.tsx\",\n            lineNumber: 13,\n            columnNumber: 7\n        }, this)\n    }, void 0, false, {\n        fileName: \"D:\\\\Work\\\\My Works\\\\Projects-main\\\\auth-app\\\\app\\\\layout.tsx\",\n        lineNumber: 12,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvbGF5b3V0LnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7OztBQUFPLE1BQU1BLFdBQVc7SUFDdEJDLE9BQU87SUFDUEMsYUFBYTtBQUNmLEVBQUM7QUFFYyxTQUFTQyxXQUFXLEVBQ2pDQyxRQUFRLEVBR1Q7SUFDQyxxQkFDRSw4REFBQ0M7UUFBS0MsTUFBSztrQkFDVCw0RUFBQ0M7c0JBQU1IOzs7Ozs7Ozs7OztBQUdiIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vYXV0aC1hcHAvLi9hcHAvbGF5b3V0LnRzeD85OTg4Il0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBjb25zdCBtZXRhZGF0YSA9IHtcbiAgdGl0bGU6ICdBdXRoZW50aWNhdGlvbiBGbG93LmpzJyxcbiAgZGVzY3JpcHRpb246ICdHZW5lcmF0ZWQgYnkgTmV4dC5qcycsXG59XG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFJvb3RMYXlvdXQoe1xuICBjaGlsZHJlbixcbn06IHtcbiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZVxufSkge1xuICByZXR1cm4gKFxuICAgIDxodG1sIGxhbmc9XCJlblwiPlxuICAgICAgPGJvZHk+e2NoaWxkcmVufTwvYm9keT5cbiAgICA8L2h0bWw+XG4gIClcbn1cbiJdLCJuYW1lcyI6WyJtZXRhZGF0YSIsInRpdGxlIiwiZGVzY3JpcHRpb24iLCJSb290TGF5b3V0IiwiY2hpbGRyZW4iLCJodG1sIiwibGFuZyIsImJvZHkiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./app/layout.tsx\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ RootLayout),\n/* harmony export */   metadata: () => (/* binding */ metadata)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/globals.css */ \"(rsc)/./styles/globals.css\");\n\n\nconst metadata = {\n    title: \"Authentication Flow.js\",\n    description: \"Front-End Assignment (React Next.js TypeScript)\"\n};\nfunction RootLayout({ children }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"html\", {\n        lang: \"en\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"body\", {\n            children: children\n        }, void 0, false, {\n            fileName: \"D:\\\\Work\\\\My Works\\\\Projects-main\\\\auth-app\\\\app\\\\layout.tsx\",\n            lineNumber: 15,\n            columnNumber: 7\n        }, this)\n    }, void 0, false, {\n        fileName: \"D:\\\\Work\\\\My Works\\\\Projects-main\\\\auth-app\\\\app\\\\layout.tsx\",\n        lineNumber: 14,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvbGF5b3V0LnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7QUFBOEI7QUFFdkIsTUFBTUEsV0FBVztJQUN0QkMsT0FBTztJQUNQQyxhQUFhO0FBQ2YsRUFBQztBQUVjLFNBQVNDLFdBQVcsRUFDakNDLFFBQVEsRUFHVDtJQUNDLHFCQUNFLDhEQUFDQztRQUFLQyxNQUFLO2tCQUNULDRFQUFDQztzQkFBTUg7Ozs7Ozs7Ozs7O0FBR2IiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9hdXRoLWFwcC8uL2FwcC9sYXlvdXQudHN4Pzk5ODgiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0ICcuLi9zdHlsZXMvZ2xvYmFscy5jc3MnXG5cbmV4cG9ydCBjb25zdCBtZXRhZGF0YSA9IHtcbiAgdGl0bGU6ICdBdXRoZW50aWNhdGlvbiBGbG93LmpzJyxcbiAgZGVzY3JpcHRpb246ICdGcm9udC1FbmQgQXNzaWdubWVudCAoUmVhY3QgTmV4dC5qcyBUeXBlU2NyaXB0KScsXG59XG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFJvb3RMYXlvdXQoe1xuICBjaGlsZHJlbixcbn06IHtcbiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZVxufSkge1xuICByZXR1cm4gKFxuICAgIDxodG1sIGxhbmc9XCJlblwiPlxuICAgICAgPGJvZHk+e2NoaWxkcmVufTwvYm9keT5cbiAgICA8L2h0bWw+XG4gIClcbn1cbiJdLCJuYW1lcyI6WyJtZXRhZGF0YSIsInRpdGxlIiwiZGVzY3JpcHRpb24iLCJSb290TGF5b3V0IiwiY2hpbGRyZW4iLCJodG1sIiwibGFuZyIsImJvZHkiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./app/layout.tsx\n");
 
 /***/ }),
 
@@ -940,7 +962,25 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   $$typeof: () => (/* binding */ $$typeof),\n/* harmony export */   __esModule: () => (/* binding */ __esModule),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ \"(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js\");\n\nconst proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`D:\\Work\\My Works\\Projects-main\\auth-app\\app\\page.tsx`)\n\n// Accessing the __esModule property and exporting $$typeof are required here.\n// The __esModule getter forces the proxy target to create the default export\n// and the $$typeof value is for rendering logic to determine if the module\n// is a client boundary.\nconst { __esModule, $$typeof } = proxy;\nconst __default__ = proxy.default;\n\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__default__);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvcGFnZS50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7OztBQUFlIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vYXV0aC1hcHAvLi9hcHAvcGFnZS50c3g/NzYwMyJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBhcHAvcGFnZS50c3hcclxuJ3VzZSBjbGllbnQnXHJcbmltcG9ydCB7IHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0J1xyXG5pbXBvcnQgeyB1c2VSb3V0ZXIgfSBmcm9tICduZXh0L25hdmlnYXRpb24nXHJcblxyXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBIb21lKCkge1xyXG4gIGNvbnN0IHJvdXRlciA9IHVzZVJvdXRlcigpXHJcbiAgdXNlRWZmZWN0KCgpID0+IHtcclxuICAgIHJvdXRlci5yZXBsYWNlKCcvbG9naW4nKVxyXG4gIH0sIFtyb3V0ZXJdKVxyXG4gIHJldHVybiBudWxsXHJcbn1cclxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./app/page.tsx\n");
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
+/* harmony export */   __esModule: () => (/* binding */ __esModule),
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
+
+const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`D:\Work\My Works\Projects-main\auth-app\app\page.tsx`)
+
+// Accessing the __esModule property and exporting $$typeof are required here.
+// The __esModule getter forces the proxy target to create the default export
+// and the $$typeof value is for rendering logic to determine if the module
+// is a client boundary.
+const { __esModule, $$typeof } = proxy;
+const __default__ = proxy.default;
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__default__);
 
 /***/ }),
 
