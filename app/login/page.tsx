@@ -73,7 +73,9 @@ export default function LoginPage() {
               className="w-full p-3 rounded bg-gray-800 text-white border border-gray-700"
             />
           </div>
+          
           {error && <p className="text-red-500 text-sm">{error}</p>}
+
           <button
             type="submit"
             disabled={loading}
@@ -100,16 +102,16 @@ export default function LoginPage() {
           </p>
         </form>
       </div>
-      <div className="hidden md:block w-1/2 relative bg-gray-900">
+      <div className="hidden md:block w-1/2 relative bg-gray-900"> 
         <img
           src="/testimonials.jpg"
           alt="Team collaboration"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover rounded-l-lg"
         />
         <div className="absolute inset-0 bg-black/30 flex items-end p-8">
-          <div className="bg-white/20 backdrop-blur-md p-6 rounded-lg text-white max-w-md">
+          <div className="bg-white/20 backdrop-blur-md p-6 rounded-lg text-white max-w">
             <p className="text-lg leading-relaxed">
-              “We love the screen sharing and whiteboarding features, which have improved our presentations. Room.me has become an essential tool for our team, allowing us to collaborate effectively. Highly recommended!”
+              “We love the screen sharing and whiteboarding features, which have improved our presentaions. Room.me has become an essential tool for our team, allowing us to colaborate effectively. Highly recomended!”
             </p>
             <p className="mt-4 font-semibold">Sarah Markivoc - Project Manager</p>
             <div className="mt-2 flex space-x-2">
